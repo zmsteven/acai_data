@@ -1,0 +1,10 @@
+Asset Name,Intermediate Government/Credit Bonds,Long-term Corporate Bonds,Long-term Government Bonds,High Yield Bonds,US Equity,Global Equity,Core Private Real Estate,Hedge Funds,Long-term Corporate Bonds
+Intermediate Government/Credit Bonds,1,0.85,0.8,0.3,0.1,0.1,0.3,0.1,0.85
+Long-term Corporate Bonds,0.85,1,0.6,0.5,0.25,0.3,0.25,0.3,1
+Long-term Government Bonds,0.8,0.6,1,-0.2,-0.3,-0.25,0.1,-0.3,0.6
+High Yield Bonds,0.3,0.5,-0.2,1,0.7,0.7,0.45,0.7,0.5
+US Equity,0.1,0.25,-0.3,0.7,1,0.9,0.4,0.8,0.25
+Global Equity,0.1,0.3,-0.25,0.7,0.9,1,0.35,0.8,0.3
+Core Private Real Estate,0.3,0.25,0.1,0.45,0.4,0.35,1,0.4,0.25
+Hedge Funds,0.1,0.3,-0.3,0.7,0.8,0.8,0.4,1,0.3
+Long-term Corporate Bonds,0.85,1,0.6,0.5,0.25,0.3,0.25,0.3,1

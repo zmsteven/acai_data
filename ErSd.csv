@@ -1,0 +1,11 @@
+Unique Identifier,Selected,Asset Class Name,Expected Return ,Standard Deviation ,Maximum,Minumum,Liquidity
+,,,%,% Points,%,%,
+8a1a544c-d4dd-4a35-b867-2cb6156f893d,TRUE,Intermediate Government/Credit Bonds,2.27,5,100,0,Daily
+c60160c8-bf34-4296-b328-66c64e3f342b,TRUE,Long-term Corporate Bonds,4.05,10,100,0,Daily
+65938eb7-2362-4e8c-9b52-227caee59867,TRUE,Long-term Government Bonds,3.12,12,100,0,Daily
+ac839ccf-4e01-4666-82fb-84a14b832e84,TRUE,High Yield Bonds,5.55,11,100,0,Monthly
+9ef7b16a-875e-4fe4-be88-ec6fad348e4d,TRUE,US Equity,8.62,17,100,0,Daily
+381634d5-1191-4fb1-9425-985af7f71083,TRUE,Global Equity,9.08,17,100,0,Daily
+394a76a3-e79b-41e7-8844-4498cc9b8dca,TRUE,Core Private Real Estate,6.4,11,100,0,Quarterly
+394a76a3-e79b-41e7-8844-4498cc9b8dca,TRUE,Hedge Funds,4.51,7,100,0,Quarterly
+c60160c8-bf34-4296-b328-66c64e3f342b,TRUE,Long-term Corporate Bonds-Liab,4.05,10,100,0,Daily
