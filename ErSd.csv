@@ -1,5 +1,5 @@
 Selected,Asset Class Name,Expected Return,Standard Deviation,Maximum,Minumum,Liquidity
-TRUE,Intermediate Government/Credit Bonds,2.27,5,100,0,Daily
+TRUE,Intermediate Government Credit Bonds,2.27,5,100,0,Daily
 TRUE,Long-term Corporate Bonds,4.05,10,100,0,Daily
 TRUE,Long-term Government Bonds,3.12,12,100,0,Daily
 TRUE,High Yield Bonds,5.55,11,100,0,Monthly
